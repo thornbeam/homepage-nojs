@@ -1,2 +1,2 @@
 # homepage-nojs
-Homepage without JavaScript
+Homepage template without JavaScript
